@@ -21,11 +21,11 @@
 ## Demo 結果
 使用一般鏡頭的結果呈現:
 
-
+![image](https://github.com/okok009/cv_final/blob/master/WebCam_Demo.gif)
 
 搭配Intel 的RealSense D435 的結果:
 
-
+![image](https://github.com/okok009/cv_final/blob/master/RealSense_Demo.gif)
 ## 使用方法
 需要先將mmdet, mmengine 資料夾與一開始install 在sit-packages 中的檔案取代。
 
